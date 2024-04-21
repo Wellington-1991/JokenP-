@@ -1,0 +1,15 @@
+C:\Users\Wellington\Desktop\Portifolios\JokenPo\JokenPo\bin\Debug\net8.0\JokenPo.exe
+C:\Users\Wellington\Desktop\Portifolios\JokenPo\JokenPo\bin\Debug\net8.0\JokenPo.deps.json
+C:\Users\Wellington\Desktop\Portifolios\JokenPo\JokenPo\bin\Debug\net8.0\JokenPo.runtimeconfig.json
+C:\Users\Wellington\Desktop\Portifolios\JokenPo\JokenPo\bin\Debug\net8.0\JokenPo.dll
+C:\Users\Wellington\Desktop\Portifolios\JokenPo\JokenPo\bin\Debug\net8.0\JokenPo.pdb
+C:\Users\Wellington\Desktop\Portifolios\JokenPo\JokenPo\obj\Debug\net8.0\JokenPo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wellington\Desktop\Portifolios\JokenPo\JokenPo\obj\Debug\net8.0\JokenPo.AssemblyInfoInputs.cache
+C:\Users\Wellington\Desktop\Portifolios\JokenPo\JokenPo\obj\Debug\net8.0\JokenPo.AssemblyInfo.cs
+C:\Users\Wellington\Desktop\Portifolios\JokenPo\JokenPo\obj\Debug\net8.0\JokenPo.csproj.CoreCompileInputs.cache
+C:\Users\Wellington\Desktop\Portifolios\JokenPo\JokenPo\obj\Debug\net8.0\JokenPo.sourcelink.json
+C:\Users\Wellington\Desktop\Portifolios\JokenPo\JokenPo\obj\Debug\net8.0\JokenPo.dll
+C:\Users\Wellington\Desktop\Portifolios\JokenPo\JokenPo\obj\Debug\net8.0\refint\JokenPo.dll
+C:\Users\Wellington\Desktop\Portifolios\JokenPo\JokenPo\obj\Debug\net8.0\JokenPo.pdb
+C:\Users\Wellington\Desktop\Portifolios\JokenPo\JokenPo\obj\Debug\net8.0\JokenPo.genruntimeconfig.cache
+C:\Users\Wellington\Desktop\Portifolios\JokenPo\JokenPo\obj\Debug\net8.0\ref\JokenPo.dll

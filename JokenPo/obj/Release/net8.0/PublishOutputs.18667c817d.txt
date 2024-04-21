@@ -1,0 +1,5 @@
+C:\Users\Wellington\Desktop\Portifolios\JokenPo\JokenPo.exe
+C:\Users\Wellington\Desktop\Portifolios\JokenPo\JokenPo.dll
+C:\Users\Wellington\Desktop\Portifolios\JokenPo\JokenPo.deps.json
+C:\Users\Wellington\Desktop\Portifolios\JokenPo\JokenPo.runtimeconfig.json
+C:\Users\Wellington\Desktop\Portifolios\JokenPo\JokenPo.pdb
