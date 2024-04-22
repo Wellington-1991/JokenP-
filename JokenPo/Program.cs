@@ -4,7 +4,6 @@ using System.Diagnostics;
 
 RegraDoJogo jogar = new RegraDoJogo();
 jogar.IniciarPartida();
-Environment.Exit(1);
 
 public class Jogador
 {
